@@ -16,7 +16,7 @@ while True:
     ch = int(input("Enter your choice: "))
 
     if ch == 1:
-        upload(str(input("File name: ")), str(input("Object name: ")))
+        upload(str(input("File name: ")), str(input("Object name: "))) #enter file path
     elif ch == 2:
         download(str(input("Object name: ")),str(input("Enter Path: ")))
     elif ch == 3:
