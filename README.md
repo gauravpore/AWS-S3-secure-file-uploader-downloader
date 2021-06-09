@@ -1,4 +1,4 @@
-# AWS-S3-file-Uploader-Downloader
+# AWS-S3-secure-file-uploader-downloader
 ## 🔹Overview:
 [Amazon S3](https://aws.amazon.com/s3/) is a service offered by [AWS](https://aws.amazon.com/) which has a simple web services interface that you can use to store and retrieve any amount of data, at any time, from anywhere on the web. It gives any developer access to the same highly scalable, reliable, fast, inexpensive data storage infrastructure that Amazon uses to run its own global network of web sites.
 The objective is to create secure file controller to upload, download and delete files to and from [Amazon S3 Bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html) using Python scripts to enable automation and flexibility.
